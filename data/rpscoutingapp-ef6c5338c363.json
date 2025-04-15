@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rpscoutingapp",
+  "private_key_id": "ef6c5338c363e56b4bda6e914e252a3694f5bc74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5dP0io9QVFP9a\nEzhIR7vin1K4cCpo1Iyd91oUEn7xLEy7LCSQMohembHbEbPaug/pqmreluowWBE0\n9pu7LZIjJUhBW0iz1edJ8R9Ph2lAaMbZmqi8s/dTEunoXC/zFy4EFbo5KKdBhrwr\nhQrTSH1qDvUdP9HDF3wopMvSkHSvXjBDsSKtckjobQjLfQuMy0f9dSceBNo7SEE4\nRZ+wAbFrPeuJE+SYBegbW5cEWTmFC48dEoYm+/lLJrbHlese0lKTlb9tlbV8kjr5\nQ+l8D/rER5tmLyRhNkVzPyalIQFy8IYD5t+UGiXUHZk/qH/1Q0hO4AUHyfAr4BPe\naRxwdQOdAgMBAAECggEAWP3iWjTzGAqzXa3LXCPP7Lc3InnwX81ejI6dEvStJV10\nlHxiLy+QcJSf29dqzpJqAF5eWeFhD0GzQA72O6NqdKL3QSVkhacnDTw/IhKAVv/w\nK4sjXSmejKaOx4k1GRkOY7dpXPQ9DhxxPxDgWPJ3++Shih+NsGgclARAKhJXa66b\n17ytjc6t0I0atbBrx1XXnnr9HuRupD/HeJaBg5gRveoxiUndIfqgtO+AHe37jHr2\ngG1Ou9zM2TLom+yQmF9hPuAR/uTqYHLDfwwicvp9jM4g4ZCIAREC5vt4B4WSLDIY\npNxtWB+TKiK7Rr37R1Nj2FRbWBATsQnbC9KY06EcoQKBgQD4tzJdn2JeqKbOwdWP\nYljgnXBEHtpgu7hJE9l7lOaR0vCW7vPGKfrhQmNzP2sfnc8PhF9j2NdMWPkxFFNq\nFqCQk2iCNJuSfaBZmXsP6Sm9BMI0bbRzdDdQOhN2uaKKkLnR0vq/jzTgmuirp8Vm\n/25/yqeTs1/Mf3wN5aIIWD/50wKBgQC+437sCymLTjU8S1aW/6XLbzyaXm3EYncP\n2B1Cb7A2Z47IsE4LL+rVfNFqUZyvV2QRtKv6LgI4MjIySWRlgn8LzLfx4hyC8a7W\nF9OEmFRcS/ZYUgMtTGS2o8p3TaeLH2UY8gl6TuaceZDWl78iCMr9K8gChNarYaYn\nyisioaq2zwKBgQC/rRfAtVOvVdRwJUv7m7SZLlxV810jDajBkO2b4y4qleFawL7Y\nKoQxU+Om7uoUzJ7F+6M0JOoP6cXqABsk+Fk38pKpPffjVrPcOX9wzKWhCWjN1Por\nvBXg21Eiv3+3wD+kqC8csDX1Hw1PNRXaAeLb04eAOc4LoPgvEZjlS3XKhwKBgE5x\nxtLRs3zf4tioTSk4XbXAPLNjYtB1dmA4e621oEB7Rh4K9cd7JZId/SEn8K/Nxf3Q\ntWvWRGs7lY08w9lDS1paAq2QMg9Nqn+owu+WefSD8vRQn6WZ4zl7DdUBQHzXpgAe\nVu7ARdy/yFmnepBN9L0dpNAELwO22UU4u4k7zp/ZAoGAMRKikilEVVhRLiPXaAYE\nwL7CH2KpqpV9ZTcWeAlLwV4BENPZ2+JPSu80nrw1+104vFAxKSazOeOiOlBAqvPt\n7uCr2tytpV9JUgEZMAWfil1BCrePP1pQ/+he5ZbncN4bfWHRhij2C8bcumPrYQEH\nv0zvD7+Kq4lWSpdy0c5EgWo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-streamlit-app@rpscoutingapp.iam.gserviceaccount.com",
+  "client_id": "116300336579769256897",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-streamlit-app%40rpscoutingapp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
