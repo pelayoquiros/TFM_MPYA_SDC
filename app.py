@@ -36,7 +36,7 @@ else:
     st.sidebar.markdown("<hr style='margin-top: 4px; margin-bottom: 4px;'>", unsafe_allow_html=True)
     st.sidebar.markdown("""
     <div style='text-align: right; font-size: 12px; margin-top: 2px;'>
-        🎓 Alumnos de Sport Data Campus del Máster de Python
+        🎓 Alumno de Sport Data Campus del Máster de Python
     </div>
     """, unsafe_allow_html=True)
     st.sidebar.markdown("<hr style='margin-top: 8px; margin-bottom: 8px;'>", unsafe_allow_html=True)
