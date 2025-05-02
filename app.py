@@ -32,15 +32,6 @@ else:
     </div>
     """, unsafe_allow_html=True)
 
-    st.sidebar.markdown("""
-    <div style='margin-bottom: 8px;'>
-        👨‍💻 <strong>Ramón Codesido</strong> 
-        <a href='https://www.linkedin.com/in/ramon-codesido/' target='_blank'>
-            <img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width='16' style='vertical-align:middle; margin-left:5px;'/>
-        </a>
-    </div>
-    """, unsafe_allow_html=True)
-
     # Separador y pie
     st.sidebar.markdown("<hr style='margin-top: 4px; margin-bottom: 4px;'>", unsafe_allow_html=True)
     st.sidebar.markdown("""
